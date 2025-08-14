@@ -16,5 +16,10 @@ A simple web app to track your daily mood using buttons and emojis.
 1. Download the files or clone the repo
 2. Open `index.html` in any browser
 
+## 📷 Screenshot
+![Daily Mood Tracker](todo-list-screenshot.png)
+
+
+
 ## 🙌 Author
 Created by Bryan Dave ✨
